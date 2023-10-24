@@ -1,7 +1,7 @@
 ## 运行程序
 
 ```c
-cd build
+mkdir -p build && cd build
 cmake ..
 make
 ```
